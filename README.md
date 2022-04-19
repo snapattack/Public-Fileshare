@@ -1,2 +1,1 @@
-# fileshare
-Sharing SnapAttack files publicly
+# SnapAttack Public Fileshare
